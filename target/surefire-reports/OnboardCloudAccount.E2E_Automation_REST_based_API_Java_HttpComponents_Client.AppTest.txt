@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: OnboardCloudAccount.E2E_Automation_REST_based_API_Java_HttpComponents_Client.AppTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.149 sec

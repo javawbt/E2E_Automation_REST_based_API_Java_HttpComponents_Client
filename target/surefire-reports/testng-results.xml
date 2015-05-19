@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OnboardCloudAccount.E2E_Automation_REST_based_API_Java_HttpComponents_Client.AppTest" duration-ms="4" started-at="2015-05-19T04:38:31Z" finished-at="2015-05-19T04:38:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4" started-at="2015-05-19T04:38:31Z" finished-at="2015-05-19T04:38:31Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- OnboardCloudAccount.E2E_Automation_REST_based_API_Java_HttpComponents_Client.AppTest -->
+</testng-results>
