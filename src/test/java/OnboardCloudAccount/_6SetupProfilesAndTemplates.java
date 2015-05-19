@@ -49,8 +49,8 @@ public class _6SetupProfilesAndTemplates {
 
 		System.out.println(executor.execute(Request.Post("http://10.10.8.32:8080/AppCenter/services/rest"
 				+ "/login").useExpectContinue().version(HttpVersion.HTTP_1_1)
-				.bodyString("{\"username\":\"admin\","
-						+ "\"password\":\"admin\"}", ContentType.APPLICATION_JSON))
+				.bodyString("{\"username\":\"xxxxxx\","
+						+ "\"password\":\"xxxxxx\"}", ContentType.APPLICATION_JSON))
 						.returnResponse().toString());
 
 		executor.execute(Request.Post("http://10.10.8.32:8080/AppCenter/services/rest/standards/fetch")

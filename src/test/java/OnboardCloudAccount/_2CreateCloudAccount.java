@@ -54,7 +54,7 @@ public class _2CreateCloudAccount {
 		client = HttpClients.createDefault();
 
 		httpPost = new HttpPost("http://10.10.8.32:8080/AppCenter/services/rest/login");
-		String json = "{\"username\":\"admin\",\"password\":\"admin\"}";
+		String json = "{\"username\":\"xxxxxx\",\"password\":\"xxxxxx\"}";
 		StringEntity entity = new StringEntity(json);
 		httpPost.setEntity(entity);
 		httpPost.setHeader("Content-type", "application/json");
